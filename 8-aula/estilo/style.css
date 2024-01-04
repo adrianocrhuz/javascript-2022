@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.tela-principal {
+    width: 100%;
+    height: 100vh;
+    padding: 30px 15%;
+}
+.modos {
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+#btnlight {
+    background: #ccc;
+    margin-right: 5px;
+
+}
+#btndark {
+    background: #000;
+    color: #fff;
+    border: 1px solid #fff;
+}
+p {
+    margin-top: 30px;
+}
+.escuro {
+    background: #000;
+}
+.claro {
+    background: #ccc;
+}
